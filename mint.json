@@ -3,8 +3,8 @@
   "name": "Import Websites Documentation",
   "favicon": "/favicon.svg",
   "logo": {
-    "dark": "logo.svg",
-    "light": "logo.svg"
+    "dark": "/logo.svg",
+    "light": "/logo.svg"
   },
   "colors": {
     "primary": "#3b82f6",
@@ -50,9 +50,10 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "getting-started/introduction",
+        "getting-started/quickstart",
+        "getting-started/development",
+        "getting-started/roadmap"
       ]
     },
     {
