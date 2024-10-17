@@ -34,6 +34,16 @@
       "name": "Support Email",
       "icon": "envelope",
       "url": "mailto:hello@importwebsites.com"
+    },
+    {
+      "name": "Figma Plugin",
+      "icon": "figma",
+      "url": "https://importwebsites.com/figma"
+    },
+    {
+      "name": "Chrome Extension",
+      "icon": "chrome",
+      "url": "https://importwebsites.com/chrome"
     }
   ],
   "navigation": [
