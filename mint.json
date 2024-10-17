@@ -48,23 +48,24 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": [
         "getting-started/introduction",
-        "getting-started/quickstart",
-        "getting-started/development",
+        "getting-started/features",
+        "getting-started/issues",
         "getting-started/roadmap"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Importing Websites",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "importing-websites/overview"
+      ]
+    },
+    {
+      "group": "Pro Version",
+      "pages": [
+        "pro-version/overview"
       ]
     }
   ]
