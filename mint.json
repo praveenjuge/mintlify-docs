@@ -31,11 +31,6 @@
       "url": "https://importwebsites.com"
     },
     {
-      "name": "Support Email",
-      "icon": "envelope",
-      "url": "mailto:hello@importwebsites.com"
-    },
-    {
       "name": "Figma Plugin",
       "icon": "figma",
       "url": "https://importwebsites.com/figma"
@@ -44,6 +39,11 @@
       "name": "Chrome Extension",
       "icon": "chrome",
       "url": "https://importwebsites.com/chrome"
+    },
+    {
+      "name": "Go Pro with 20% Off",
+      "icon": "rectangle-pro",
+      "url": "https://importwebsites.com/gumroad"
     }
   ],
   "navigation": [
@@ -52,21 +52,18 @@
       "pages": [
         "getting-started/introduction",
         "getting-started/features",
+        "getting-started/changelog",
         "getting-started/issues",
         "getting-started/roadmap"
       ]
     },
     {
       "group": "Importing Websites",
-      "pages": [
-        "importing-websites/overview"
-      ]
+      "pages": ["importing-websites/overview"]
     },
     {
       "group": "Pro Version",
-      "pages": [
-        "pro-version/overview"
-      ]
+      "pages": ["pro-version/overview"]
     }
   ]
 }
