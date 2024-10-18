@@ -59,11 +59,15 @@
     },
     {
       "group": "Importing Websites",
-      "pages": ["importing-websites/overview"]
+      "pages": ["importing-websites/how-to"]
     },
     {
       "group": "Pro Version",
       "pages": ["pro-version/overview"]
+    },
+    {
+      "group": "Legal",
+      "pages": ["legal/license", "legal/privacy", "legal/terms"]
     }
   ]
 }
