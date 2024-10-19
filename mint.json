@@ -43,7 +43,7 @@
     {
       "name": "Go Pro with 20% Off",
       "icon": "rectangle-pro",
-      "url": "https://importwebsites.com/gumroad"
+      "url": "https://importwebsites.com/gumroad20"
     }
   ],
   "navigation": [
@@ -67,7 +67,12 @@
     },
     {
       "group": "Legal",
-      "pages": ["legal/license", "legal/privacy", "legal/terms"]
+      "pages": [
+        "legal/overview",
+        "legal/license",
+        "legal/privacy",
+        "legal/terms"
+      ]
     }
   ]
 }
